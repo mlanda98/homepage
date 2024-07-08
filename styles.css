@@ -4,6 +4,33 @@ body{
   padding: 0px;
 }
 
-.profile-pic{
-  width: 40px;
+.profile-pic-container{
+  background-color: rgb(0, 166, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
+
+h1{
+  color: white;
+  margin-top: -10px;
+}
+.profile-pic{
+  width: 300px;
+  padding: 35px;
+}
+
+.logo-section img{
+  width: 10px;
+}
+
+.github-logo{
+  width: 10px;
+}
+
+.link-logo{
+  width: 10px;
+}
+
+
